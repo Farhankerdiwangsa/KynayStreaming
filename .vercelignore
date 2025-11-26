@@ -1,0 +1,5 @@
+server/
+.git
+*.env
+.env.local
+node_modules/.cache
