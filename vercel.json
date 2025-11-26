@@ -9,7 +9,7 @@
   "redirects": [
     {
       "source": "/api/:path*",
-      "destination": "/api/:path*",
+      "destination": "/api/index.ts",
       "permanent": false
     }
   ]
