@@ -12,10 +12,5 @@
       "destination": "/api/:path*",
       "permanent": false
     }
-  ],
-  "functions": {
-    "api/**/*.ts": {
-      "runtime": "nodejs20.x"
-    }
-  }
+  ]
 }
